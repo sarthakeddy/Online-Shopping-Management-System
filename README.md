@@ -5,4 +5,4 @@ This is a inbuilt password protected management system. Different functions for 
 How to Run:-
 Password to enter into the project- sarthak
 
-Put all the source file in a directory and run- g++ oops.cpp
+Put all the source file in a directory and run- g++ shop.cpp
